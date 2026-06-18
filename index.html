@@ -1,13 +1,43 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>Ancient Convergence</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ancient Convergence</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
-
 <body>
 
-<h1>Ancient Convergence</h1>
+<header>
+  <h1>Ancient Convergence</h1>
+  <p>
+    An interactive explorer connecting ancient texts, civilizations, biblical history,
+    archaeology, prophecy, symbols, and hidden threads across time.
+  </p>
+</header>
 
+<section class="controls">
+  <input id="search" type="text" placeholder="Search ancient texts, places, symbols..." />
+
+  <div class="filters">
+    <button class="active" onclick="setFilter('All', this)">All</button>
+    <button onclick="setFilter('Ancient Text', this)">Ancient Texts</button>
+    <button onclick="setFilter('Civilization', this)">Civilizations</button>
+    <button onclick="setFilter('Biblical History', this)">Biblical History</button>
+    <button onclick="setFilter('Archaeology', this)">Archaeology</button>
+    <button onclick="setFilter('Prophecy', this)">Prophecy</button>
+  </div>
+</section>
+
+<main class="timeline" id="timeline"></main>
+
+<section class="connections">
+  <h2>Connection Paths</h2>
+  <p>&#128220; Pistis Sophia &rarr; Isaiah &rarr; Psalms &rarr; New Testament</p>
+  <p>&#128065; Book of Enoch &rarr; Genesis 6 &rarr; Watchers &rarr; Flood Traditions</p>
+  <p>&#127963; Sumer &rarr; Mesopotamia &rarr; Biblical Flood &rarr; Ancient Kingship</p>
+</section>
+
+<script src="script.js"></script>
 </body>
-
 </html>
