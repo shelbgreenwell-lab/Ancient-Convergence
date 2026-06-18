@@ -1,1 +1,74 @@
-
+[
+  {
+    "title": "Göbekli Tepe",
+    "date": "c. 9600 BCE",
+    "category": "Archaeology",
+    "summary": "One of the oldest known monumental ritual sites, challenging assumptions about early civilization.",
+    "figures": ["Unknown builders"],
+    "related": ["Prehistoric religion", "Sacred architecture"],
+    "confidence": "High"
+  },
+  {
+    "title": "Sumer",
+    "date": "c. 4500–1900 BCE",
+    "category": "Civilization",
+    "summary": "One of the earliest urban civilizations, associated with writing, kingship, temples, and flood traditions.",
+    "figures": ["Sumerian kings", "Priests", "Scribes"],
+    "related": ["Epic of Gilgamesh", "Mesopotamia", "Flood traditions"],
+    "confidence": "High"
+  },
+  {
+    "title": "Ancient Egypt",
+    "date": "c. 3100 BCE onward",
+    "category": "Civilization",
+    "summary": "A major ancient civilization centered on divine kingship, temple ritual, afterlife beliefs, and sacred symbolism.",
+    "figures": ["Pharaohs", "Priests", "Isis", "Osiris"],
+    "related": ["Book of the Dead", "Pyramid Texts"],
+    "confidence": "High"
+  },
+  {
+    "title": "Genesis",
+    "date": "Compiled over centuries",
+    "category": "Biblical History",
+    "summary": "The biblical book of beginnings, including creation, Eden, the flood, patriarchs, and covenant themes.",
+    "figures": ["Adam", "Eve", "Noah", "Abraham"],
+    "related": ["Enoch", "Flood traditions", "Mesopotamia"],
+    "confidence": "High"
+  },
+  {
+    "title": "Book of Enoch",
+    "date": "c. 300–100 BCE",
+    "category": "Ancient Text",
+    "summary": "An ancient Jewish apocalyptic text expanding on watchers, heavenly journeys, judgment, and cosmic order.",
+    "figures": ["Enoch", "Watchers", "Son of Man"],
+    "related": ["Genesis 6", "Dead Sea Scrolls", "Jude"],
+    "confidence": "Medium"
+  },
+  {
+    "title": "Dead Sea Scrolls",
+    "date": "c. 3rd century BCE–1st century CE",
+    "category": "Ancient Text",
+    "summary": "A collection of Jewish manuscripts that preserve biblical texts, sectarian writings, and apocalyptic traditions.",
+    "figures": ["Qumran community", "Scribes"],
+    "related": ["Isaiah", "Enoch", "Hebrew Bible"],
+    "confidence": "High"
+  },
+  {
+    "title": "Nag Hammadi Library",
+    "date": "Discovered 1945; texts earlier",
+    "category": "Ancient Text",
+    "summary": "A collection of early Christian and Gnostic writings discovered in Egypt.",
+    "figures": ["Early Christian communities"],
+    "related": ["Gospel of Thomas", "Gnostic Christianity"],
+    "confidence": "High"
+  },
+  {
+    "title": "Pistis Sophia",
+    "date": "c. 3rd–4th century CE",
+    "category": "Ancient Text",
+    "summary": "A Gnostic Christian text featuring post-resurrection teachings of Jesus, with Mary Magdalene playing a major role.",
+    "figures": ["Jesus", "Mary Magdalene", "Pistis Sophia"],
+    "related": ["Isaiah", "Psalms", "New Testament"],
+    "confidence": "Medium"
+  }
+]
